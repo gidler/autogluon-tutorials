@@ -1,2 +1,2 @@
 # autogluon-tutorials
-Copy of awslabs/autogluon tutorial notebooks
+Staged builds of awslabs/autogluon tutorials
